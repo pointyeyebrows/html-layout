@@ -1,4 +1,6 @@
 <img src="https://devmounta.in/img/logowhiteblue.png" width="250" align="right">
+#My First Commit
+Once upon a time there was a new developer.They wanted to learn how to use github. So they wrote a  story about how to make changes to code. And they share with github.
 
 # Project Summary
 
@@ -19,4 +21,3 @@ If you see a problem or a typo, please fork, make the necessary changes, and cre
 <p align="center">
 <img src="https://devmounta.in/img/logowhiteblue.png" width="250">
 </p>
-
